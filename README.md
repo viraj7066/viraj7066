@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/tusharpatil2912/tusharpatil2912/blob/main/banner.gif)](https://techtush.in)
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Viraj Gujar</h1>
 
