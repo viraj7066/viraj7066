@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/tusharpatil2912/tusharpatil2912/blob/main/banner.gif)](https://techtush.in)
+![MasterHead](https://github.com/tusharpatil2912/tusharpatil2912/blob/main/banner.gif)
 # 💫 About Me:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=viraj7066.viraj7066" />
 <h1 align="center">
