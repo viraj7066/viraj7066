@@ -115,7 +115,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/viraj7066/viraj7066/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
