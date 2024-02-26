@@ -16,7 +16,7 @@
 ⚡ Fun fact: I enjoy experimenting with different programming languages
 
 
-## 🌐 Socials:
+## 🌐 My Socials:
 
 <div align="left">
   <a href="instagram.com/viraj7066" target="_blank">
@@ -36,7 +36,7 @@
 
 # 💻 Tech Stack:
 
-<img align="right" height="150" src="https://imgflip.com/gif/8h3j03"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
