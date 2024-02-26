@@ -36,7 +36,7 @@
 
 # 💻 Tech Stack:
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  />
 
 ###
 
@@ -113,6 +113,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=viraj7066&icon=5&color=0)](https://visitcount.itsvg.in)
 
+
+
+<img src="https://raw.githubusercontent.com/viraj7066/viraj7066/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
