@@ -1,18 +1,25 @@
 [![MasterHead](https://github.com/tusharpatil2912/tusharpatil2912/blob/main/banner.gif)](https://techtush.in)
 # 💫 About Me:
-<h2 align="left">Hi 👋! My name is Viraj Gujar and I'm a Computer Engineering Student 🎓</h2>
+<h1 align="center">Hi 👋, I'm Viraj Gujar</h1>
+<img align="right" alt="coding" width="350" src="https://github.com/tusharpatil2912/tusharpatil2912/blob/main/giphy.gif">
 
-###
+🔭 I’m currently working on: Exciting coding projects and innovations.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viraj7066&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="155" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=viraj7066&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="155" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viraj7066&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="155" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=viraj7066&no-bg=false&theme=radical&margin-w=7" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viraj7066&area=true&hide_border=true&theme=redical" height="203" alt="activity-graph graph"  />
-</div>
+👯 I’m looking to collaborate on: Innovative tech ventures and coding challenges.
 
-###
+🤝 I’m looking for help with: Mastering new coding languages and frameworks.
+
+🌱 I’m currently learning: Advanced computer engineering concepts and algorithms.
+
+💬 Ask me about: My latest coding endeavors and tech passions.
+
+⚡ Fun fact: I enjoy experimenting with different programming languages
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viraj_6670) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/viraj7066) 
+
+# 💻 Tech Stack:
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
@@ -68,28 +75,31 @@
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
 </div>
 
-###
 
-<div align="left">
-  <a href="instagram.com/viraj7066" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="gujarviraj0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="codepen.io/viraj7066" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
-  <a href="codesandbox.io/viraj7066" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
-  </a>
-</div>
+# 📊 GitHub Stats:
 
-###
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=viraj7066&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)&nbsp;
+![](https://github-readme-stats.vercel.app/api?username=viraj7066&theme=radical&hide_border=false&include_all_commits=false&count_private=false)&nbsp;
 
-<br clear="both">
+![](https://github-readme-streak-stats.herokuapp.com/?user=viraj7066&theme=radical&hide_border=false)
 
-<img src="https://raw.githubusercontent.com/viraj7066/viraj7066/output/snake.svg" alt="Snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=viraj7066&area=true&hide_border=true&theme=redical" height="203" alt="activity-graph graph"  />
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=viraj7066&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=viraj7066&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=viraj7066&icon=5&color=0)](https://visitcount.itsvg.in)
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
+
+
