@@ -17,11 +17,26 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viraj_6670) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/viraj7066) 
+
+<div align="left">
+  <a href="instagram.com/viraj7066" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="gujarviraj0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="codepen.io/viraj7066" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
+  <a href="codesandbox.io/viraj7066" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
+  </a>
+</div>
 
 # 💻 Tech Stack:
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://imgflip.com/gif/8h3j03"  />
 
 ###
 
@@ -84,7 +99,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=viraj7066&theme=radical&hide_border=false)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=viraj7066&area=true&hide_border=true&theme=redical" height="203" alt="activity-graph graph"  />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=viraj7066&area=true&hide_border=true&theme=redical" height="203" alt="activity-graph graph"  />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=viraj7066&theme=radical&no-frame=false&no-bg=true&margin-w=4)
