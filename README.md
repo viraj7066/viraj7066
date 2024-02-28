@@ -41,7 +41,7 @@
 
 # 💻 Tech Stack:
 
-<img align="right" height="150" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  />
 
 ###
 
