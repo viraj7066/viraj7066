@@ -24,7 +24,7 @@
 
 
 ## 🌐 My Socials:
-
+ 
 <div align="left">
   <a href="instagram.com/viraj7066" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="37" alt="instagram logo"  />
