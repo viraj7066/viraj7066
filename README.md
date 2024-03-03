@@ -18,6 +18,8 @@
 
 💬 Ask me about: My latest coding endeavors and tech passions.
 
+📩 How to reach me : gujarviraj0@gmail.com
+
 ⚡ Fun fact: I enjoy experimenting with different programming languages
 
 
