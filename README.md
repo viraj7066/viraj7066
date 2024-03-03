@@ -119,6 +119,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=viraj7066&icon=5&color=0)](https://visitcount.itsvg.in)
+<br>
+![snake gif](https://raw.githubusercontent.com/SakerDakak/SakerDakak/18c8e620265b49dbcc664d11c6dd0cb88a2a87fd/Images/github-snake.svg)
 
 
 
